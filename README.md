@@ -25,4 +25,4 @@ The project is deployed on GitHub.
 Future improvements include search functionality and data persistence.
 
 Author:
-Fortune Chidiebere
+Favor Somtochukwu
